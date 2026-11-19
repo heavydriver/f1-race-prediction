@@ -24,7 +24,7 @@ Models are scored per race on exact-position accuracy, mean absolute error (MAE)
 
 ### Prerequisite
 
-Install the latest version of `python` on your system. [Python Download](https://www.python.org/downloads)
+Install `python` on your system. [Python Download](https://www.python.org/downloads)
 
 ### Execute the following commands in a terminal to set up the project
 
